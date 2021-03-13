@@ -8,4 +8,4 @@ They created this page for a Dreamweaver/CSS tutorial.
 
 At the same time, I just signed in into GitHub so I´m learning how to use it properly.
 
-The original page from Adobe is named Original-desing.jpg and my html file is named prueba adobe.html
+The original page from Adobe is named Original-desing.png and my html file is named prueba adobe.html
